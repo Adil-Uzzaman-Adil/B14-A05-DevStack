@@ -5,12 +5,11 @@ export default function Footer() {
 
         {/* Brand */}
         <div className="md:col-span-1">
-          <div className="flex items-center gap-2 mb-3">
-            <div className="w-9 h-9 rounded-full brand-gradient flex items-center justify-center text-white font-bold text-sm">
-              DS
-            </div>
-            <span className="font-bold brand-gradient-text">Dev Stack</span>
-          </div>
+          <img
+            src="/logo-text.png"
+            alt="Dev Stack"
+            className="h-9 w-auto mb-3"
+          />
           <p className="text-sm text-gray-500">
             Curated tools, technologies, and resources for developers building
             modern software.
