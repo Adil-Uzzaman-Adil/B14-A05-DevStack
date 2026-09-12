@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 🌈 Shared Brand Gradient — change here to re-theme whole site */
 .brand-gradient {
   background-image: linear-gradient(to right, #f97316, #ec4899, #8b5cf6);
 }
