@@ -58,7 +58,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center text-xs text-gray-500">
-          <p>© 2026 Dev Stack. All rights reserved.</p>
+          <p>© 2026 Dev Stack,Adil. All rights reserved.</p>
           <div className="flex gap-4 mt-2 sm:mt-0">
             <a href="#" className="hover:text-pink-500">Privacy</a>
             <a href="#" className="hover:text-pink-500">Terms</a>
