@@ -26,10 +26,10 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Right: Image (replace with your own) */}
+      {/* Right: Banner Image */}
       <div className="flex justify-center">
         <img
-          src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+          src="/banner-stack.png"
           alt="Dev Stack illustration"
           className="w-72 md:w-96 drop-shadow-xl"
         />
